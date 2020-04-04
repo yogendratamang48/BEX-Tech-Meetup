@@ -1,0 +1,28 @@
+------------------------------------------------------
+2020-04-04
+### AWS
+- IAM -- Identity and Access Mgmt.
+--User
+---> Role: s3Role
+---> Policy: s3Read
+- Computes: Ec2
+- Networking
+-- VPC
+-- Public/Private Subnet
+-- Security Groups
+- CI/CD
+-- CI: git push--> Auto build(build files generation
+-- C Delivery: Built files--> staging deploy
+-- Code build
+-- Code Pipelines
+- S3 
+-- Storage
+- RDS
+--- Redshift 
+--- ClickHouse -- Yandex
+- ElasticSearch
+- ElasticCache
+- Beanstalk
+- ECS
+- ECR
+------------------------------------------------------
